@@ -1,0 +1,19 @@
+.topnav {
+  margin-left: 800px;
+  height: 65px;
+  padding-top: 25px;
+  position: sticky;
+  
+  
+  
+}
+
+.topnav a {
+  float: left;
+  color: #696666;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+
+}

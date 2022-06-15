@@ -1,0 +1,8 @@
+
+   <button class="button2"><strong>Tým lektorů!</strong></button>
+   <form class="button2" action="./onas/index.html">
+          <input type="submit" value="Tým lektorů" />
+      </form>
+      .dvojka{
+  margin-left: 400px;
+}
